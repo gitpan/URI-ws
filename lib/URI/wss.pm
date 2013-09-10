@@ -2,10 +2,9 @@ package URI::wss;
 
 use strict;
 use warnings;
-use v5.10;
 
 # ABSTRACT: Secure WebSocket support for URI package
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 
 use base qw( URI::ws );
@@ -28,7 +27,7 @@ URI::wss - Secure WebSocket support for URI package
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
