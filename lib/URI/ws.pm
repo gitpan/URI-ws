@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 # ABSTRACT: WebSocket support for URI package
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 
 use base qw( URI::_server );
@@ -24,7 +24,7 @@ URI::ws - WebSocket support for URI package
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 

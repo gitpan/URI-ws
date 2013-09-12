@@ -21,4 +21,4 @@ resources:
   bugtracker: https://github.com/plicease/uri-ws/issues
   homepage: http://perl.wdlabs.com/URI-ws/
   repository: git://github.com/plicease/uri-ws.git
-version: 0.02
+version: 0.03
